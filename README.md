@@ -13,6 +13,7 @@ Instruksi Praktikum
 2. Buat folder baru dengan nama lab7_php_dasar pada docroot webserver (htdocs)
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 
+
 ###### Langkah 1
 
 download, install & jalankan xampp
@@ -21,6 +22,8 @@ download, install & jalankan xampp
 
 Uji coba apakah server sudah berkerja dengan baik
 http://127.0.0.1 atau http://localhost
+
+
 
 ###### Langkah 2
 
@@ -33,6 +36,7 @@ http://localhost/lab7_php_dasar/
 ![](pr7/1%20satu.jpg)
 
 
+
 ###### Langkah 3
 
 PHP Dasar
@@ -41,4 +45,28 @@ kode seperti berikut.
 
 ![](pr7/2%20duacode.jpg)
 
+hasil
 ![](pr7/2%20dua.jpg)
+
+
+
+###### Variable PHP
+
+Variable PHP
+Menambahkan variable pada program.
+
+![](pr7/3%20tigavsc.jpg)
+
+hasil
+
+![](pr7/4%20empat.jpg)
+
+
+###### Predefine Variable $_GET
+
+![](pr7/1%20Anwar.jpg)
+
+
+
+Untuk mengaksesnya gunakan URL:
+http://localhost/lab7_php_dasar/latihan2.php?nama=Anwar
