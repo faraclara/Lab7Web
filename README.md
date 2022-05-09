@@ -70,3 +70,14 @@ hasil
 
 Untuk mengaksesnya gunakan URL:
 http://localhost/lab7_php_dasar/latihan2.php?nama=Anwar
+
+![](pr7/5%20lima.jpg)
+
+
+###### Membuat Form Input
+
+![](pr7/%20.jpg)
+
+hasil
+
+![](pr7/6%20enamform.jpg)
