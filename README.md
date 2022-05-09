@@ -76,7 +76,7 @@ http://localhost/lab7_php_dasar/latihan2.php?nama=Anwar
 
 ###### Membuat Form Input
 
-![](pr7/%20.jpg)
+![](pr7/1%20form.jpg)
 
 hasil
 
