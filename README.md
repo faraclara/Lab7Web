@@ -95,9 +95,19 @@ Membuat table pada phpmyadmin
 
 ![](pr7/php%20myadmin0.jpg)
 
+Menambahkan id, nama, tgl lahir, umur, pekerjaan & gaji
+
 ![](pr7/php%20myadmin1.jpg)
 
+Tabel berhasil dibuat
+
+![](pr7/php%20myadmin2.jpg)
+
+Tambahkan data pada database
+
 ![](pr7/php%20myadmin3add.jpg)
+
+Data berhasil di input.
 
 ![](pr7/php%20myadmin4add.jpg)
 
