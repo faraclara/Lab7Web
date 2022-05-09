@@ -81,3 +81,61 @@ http://localhost/lab7_php_dasar/latihan2.php?nama=Anwar
 hasil
 
 ![](pr7/6%20enamform.jpg)
+
+## Pertanyaan dan Tugas
+
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+berbeda-beda sesuai pilihan pekerjaan.
+
+###### Langkah 1
+
+Membuat table pada phpmyadmin
+
+![](pr7/php%20myadmin0.jpg)
+
+![](pr7/php%20myadmin1.jpg)
+
+![](pr7/php%20myadmin3add.jpg)
+
+![](pr7/php%20myadmin4add.jpg)
+
+
+
+###### Langkah 2
+
+Membuat dan menyambungkan codingan dari visual studio code ke database.
+
+![](pr7/7%20tujuhvsc.jpg)
+
+![](pr7/7%20tujuhvsc2.jpg)
+
+Hasil
+
+![](pr7/8%20delapanhsl.jpg)
+
+
+###### Langkah 3
+
+membuat codingan menghitung umur berdasarkan inputan tanggal lahir secara otomatis.
+
+![](pr7/9%20sembilanvsc.jpg)
+
+Hasil
+
+![](pr7/9%20sembilanhslbnr.jpg)
+
+hasil data Umur pada table terhitung otomatis.
+
+
+
+Laporan Praktikum
+
+1. Buatlah repository baru dengan nama Lab7Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum
+beserta screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
